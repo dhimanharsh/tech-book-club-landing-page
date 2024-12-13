@@ -98,7 +98,7 @@ main {
   height: 2.4rem;
 }
 .three-imges p {
-  font-size: 1rem;
+  font-size: .9rem;
 }
 
 /* read together */
@@ -730,7 +730,7 @@ height: 3rem;
     font-size: 2rem;
   }
   .footer-stars-and-avtars {
-    width: 80%;
+    width: 100%;
   }
   .book-month section {
     width: 50%;
